@@ -7,15 +7,26 @@ h1 {
 }
 
 ul {
-    align-items: center;
-    align-self: auto;
+    text-decoration: none !important;
 }
 
 li {
     color: white;
+}
 
+a {
+    color: inherit;
+    text-decoration: none;
 }
 
 p {
     color: white;
+}
+
+.hero{
+    color: aqua;
+}
+
+#text{
+    color: bisque;
 }
